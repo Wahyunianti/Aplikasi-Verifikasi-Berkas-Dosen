@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group >
+        <item
+            android:id="@+id/dashboardAdm"
+            android:icon="@drawable/home"
+            android:title="Dashboard"
+            app:showAsAction="always"
+            />
+
+        <item
+            android:id="@+id/DataUser"
+            android:icon="@drawable/user"
+            android:title="Data User"
+            app:showAsAction="always"
+            />
+
+        <item
+            android:id="@+id/DataDosen"
+            android:icon="@drawable/user"
+            android:title="Data Dosen"
+            app:showAsAction="always"
+            />
+
+        <item
+            android:id="@+id/DataApprove"
+            android:icon="@drawable/verified"
+            android:title="Verifikasi"
+            app:showAsAction="always"
+            />
+    </group>
+</menu>

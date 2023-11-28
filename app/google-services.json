@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278166309813",
+    "project_id": "tedosapp",
+    "storage_bucket": "tedosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278166309813:android:eefd35fea6b0114f6ea7fc",
+        "android_client_info": {
+          "package_name": "com.example.sitedos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCLxT1SogaT2SnSKPb2BQkf6RbwkfI3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278166309813:android:c7a9d327e339e8556ea7fc",
+        "android_client_info": {
+          "package_name": "com.example.tedos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCLxT1SogaT2SnSKPb2BQkf6RbwkfI3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

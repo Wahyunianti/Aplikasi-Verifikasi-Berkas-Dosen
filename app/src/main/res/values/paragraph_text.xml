@@ -1,0 +1,6 @@
+<!-- res/values/paragraph_text.xml -->
+<resources>
+    <string name="about_text">Aplikasi Tedos adalah aplikasi yang dibuat khusus untuk dosen dalam melakukan pemberkasan data dosen tetap program studi di Prodi D4 Teknik Elektronika Polinema PSDKU Kota Kediri.</string>
+    <string name="about_text2">Tahapan dalam melakukan pemberkasan dapat diklik pada menu pengelolaan data dosen, disini pengguna dapat menginputkan data diri beserta file berkas yang akan diajukan.</string>
+
+</resources>
